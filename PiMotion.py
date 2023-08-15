@@ -2,6 +2,8 @@
 # Source code from the official PiCamera package
 # http://picamera.readthedocs.io/en/latest/recipes2.html#web-streaming
 
+#http://IP:8000/stream.mjpg
+
 import io
 import picamera
 import logging
